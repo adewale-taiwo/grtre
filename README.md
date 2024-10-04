@@ -1,0 +1,1 @@
+# Netcore Job Log Formatter
