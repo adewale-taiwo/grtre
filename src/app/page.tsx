@@ -115,7 +115,7 @@ export default function Home() {
   return (
     <>
       <div className="px-6 pb-5 pt-4 shadow text-center mb-6 dark:border-b dark:shadow-lg bg-muted">
-        <p className="text-2xl sm:text-3xl font-medium">Job log formatter</p>
+        <p className="text-2xl sm:text-3xl font-medium">Job log formatter light</p>
       </div>
 
       <div className="px-6 mx-auto mb-16 max-w-6xl lg:px-10">
